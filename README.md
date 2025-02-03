@@ -11,3 +11,8 @@
 1. A new text file `newfile.txt` is created with a sample paragraph.
 2. The JavaScript file `asynchronous.js` uses Node.js's `fs` module to write and read the text file asynchronously.
 3. The content of the text file is output to the terminal.
+
+## Contributor
+
+- Kriti Karmacharya
+  -dcsd
